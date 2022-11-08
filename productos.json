@@ -1,0 +1,20 @@
+[
+    {
+       "nombre": "Guantes Everlast",
+       "descripcion": "Los mejores guantes del mercado",
+       "codigo": "M001",
+       "foto": "url",
+       "precio": 20000,
+       "stock": 50,
+       "id": 1
+    },
+    {
+       "nombre": "Casco boxeo",
+       "descripcion": "Increible casco ",
+       "codigo": "M002",
+       "foto": "url",
+       "precio":15000,
+       "stock": 5,
+       "id": 2
+    }
+ ]

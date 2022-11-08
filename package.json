@@ -1,0 +1,23 @@
+{
+  "name": "primera-entrega-del-proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomaspica/Proyecto-TomasPica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomaspica/Proyecto-TomasPica/issues"
+  },
+  "homepage": "https://github.com/tomaspica/Proyecto-TomasPica#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
